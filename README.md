@@ -1,2 +1,2 @@
 # Curso_de_github
- Aula do github do curso em video
+ Aula do git e github do curso em video
